@@ -7,6 +7,9 @@
 - run `vim -c "PlugInstall"` (it might throw few errors, that's _probably_ OK)
 - run `vim` / `macvim` as you usually do
 
+## Bindings
+- `<leader>` is bind to `,`
+
 ## Tips
 - when editing vimrc - the easies way to reload it without restarting vim itself is `:so $MYVIMRC`
 
